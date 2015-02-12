@@ -1,0 +1,124 @@
+$comment
+	File created using the following command:
+		vcd file gates.msim.vcd -direction
+$end
+$date
+	Mon Dec 08 19:19:46 2014
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module gates_vlg_vec_tst $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var wire 1 # AND $end
+$var wire 1 $ NAND $end
+$var wire 1 % NOR $end
+$var wire 1 & OR $end
+$var wire 1 ' XNOR $end
+$var wire 1 ( XOR $end
+$var wire 1 ) sampler $end
+$scope module i1 $end
+$var wire 1 * gnd $end
+$var wire 1 + vcc $end
+$var wire 1 , unknown $end
+$var tri1 1 - devclrn $end
+$var tri1 1 . devpor $end
+$var tri1 1 / devoe $end
+$var wire 1 0 AND~output_o $end
+$var wire 1 1 NAND~output_o $end
+$var wire 1 2 OR~output_o $end
+$var wire 1 3 NOR~output_o $end
+$var wire 1 4 XNOR~output_o $end
+$var wire 1 5 XOR~output_o $end
+$var wire 1 6 a~input_o $end
+$var wire 1 7 b~input_o $end
+$var wire 1 8 comb~0_combout $end
+$var wire 1 9 comb~1_combout $end
+$var wire 1 : comb~2_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+1$
+1%
+0&
+1'
+0(
+x)
+0*
+1+
+x,
+1-
+1.
+1/
+00
+11
+02
+13
+14
+05
+06
+07
+08
+09
+0:
+$end
+#80000
+1"
+17
+0)
+1:
+19
+15
+12
+04
+03
+1(
+1&
+0'
+0%
+#160000
+1!
+0"
+16
+07
+1)
+#240000
+1"
+17
+0)
+0:
+18
+05
+10
+14
+01
+0(
+1#
+1'
+0$
+#320000
+0!
+0"
+06
+07
+1)
+09
+08
+02
+00
+13
+11
+0&
+0#
+1%
+1$
+#1000000

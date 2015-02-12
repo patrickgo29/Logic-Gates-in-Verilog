@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at gates.v(3): object "a" differs only in case from object "A" in the same scope
+Info (10281): Verilog HDL Declaration information at gates.v(3): object "b" differs only in case from object "B" in the same scope
+Info (10281): Verilog HDL Declaration information at gates.v(4): object "C" differs only in case from object "c" in the same scope
+Info (10281): Verilog HDL Declaration information at gates.v(4): object "D" differs only in case from object "d" in the same scope
+Info (10281): Verilog HDL Declaration information at gates.v(4): object "E" differs only in case from object "e" in the same scope

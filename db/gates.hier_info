@@ -1,0 +1,21 @@
+|gates
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+a => comb.IN0
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+b => comb.IN1
+AND <= comb.DB_MAX_OUTPUT_PORT_TYPE
+NAND <= comb.DB_MAX_OUTPUT_PORT_TYPE
+OR <= comb.DB_MAX_OUTPUT_PORT_TYPE
+NOR <= comb.DB_MAX_OUTPUT_PORT_TYPE
+XNOR <= comb.DB_MAX_OUTPUT_PORT_TYPE
+XOR <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

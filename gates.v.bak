@@ -1,0 +1,12 @@
+module gates (); //AND NAND OR NOR XNOR XOR A B X
+input 
+reg
+
+
+
+always @*
+begin
+
+end
+
+endmodule
